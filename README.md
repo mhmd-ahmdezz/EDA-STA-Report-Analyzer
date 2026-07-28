@@ -97,7 +97,9 @@ streamlit run app.py
 
 # 📸 Demo
 
-<video src="./demo.mp4" controls width="100%" title="EDA STA Report Analyzer Demo"></video>
+## Demo
+
+[🎬 Click here to watch the project demo video](./demo.mp4)
 
 ---
 
