@@ -97,7 +97,9 @@ streamlit run app.py
 
 # 📸 Demo
 
-[🎬 Click here to watch the project demo video](./demo.mp4)
+[![Watch the video]](https://raw.githubusercontent.com/mhmd-ahmdezz/EDA-STA-Report-Analyzer/main/demo.mp4)
+
+
 
 ---
 
