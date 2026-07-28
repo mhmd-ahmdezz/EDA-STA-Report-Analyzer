@@ -97,8 +97,6 @@ streamlit run app.py
 
 # 📸 Demo
 
-## Demo
-
 [🎬 Click here to watch the project demo video](./demo.mp4)
 
 ---
