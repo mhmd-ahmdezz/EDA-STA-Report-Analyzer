@@ -97,13 +97,13 @@ streamlit run app.py
 
 # 📸 Demo
 
-<video src="demo.mp4" controls width="100%" title="EDA STA Diagnostic Copilot Demo"></video>
+<video src="./demo.mp4" controls width="100%" title="EDA STA Report Analyzer Demo"></video>
 
 ---
 
 # 📈 Results
 
-<img width="727" height="348" alt="image" src="https://github.com/user-attachments/assets/e84f2acf-96ce-4cc5-ad13-a7978ac30079" /># 
+<img width="727" height="348" alt="image" src="https://github.com/user-attachments/assets/e84f2acf-96ce-4cc5-ad13-a7978ac30079" /> 
 ---
 
 # 🔮 Future Improvements
