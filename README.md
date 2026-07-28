@@ -97,7 +97,11 @@ streamlit run app.py
 
 # 📸 Demo
 
-[![Watch the video]](https://raw.githubusercontent.com/mhmd-ahmdezz/EDA-STA-Report-Analyzer/main/demo.mp4)
+
+
+https://github.com/user-attachments/assets/f927e031-219d-46ef-b69e-6ebfb4ce46c5
+
+
 
 
 
