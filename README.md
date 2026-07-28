@@ -1,4 +1,4 @@
-🚀 [Tips Hindawi](https://www.tipshindawi.com/) Challenge (June–July) 2026
+# 🚀 [Tips Hindawi](https://www.tipshindawi.com/) Challenge (June–July) 2026
 
 > 🏆 This repository is my official submission for the [**Tips Hindawi**](https://www.tipshindawi.com/) **Challenge (June–July) 2026**.
 
@@ -97,7 +97,7 @@ streamlit run app.py
 
 # 📸 Demo
 
-<video src="demo.mp4" controls width="100%" title="EDA STA Report Analyzer Demo"></video>
+<video src="demo.mp4" controls width="100%" title="EDA STA Diagnostic Copilot Demo"></video>
 
 ---
 
