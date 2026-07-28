@@ -1,4 +1,4 @@
-# 🚀 [Tips Hindawi](https://www.tipshindawi.com/) Challenge (June–July) 2026
+<img width="727" height="348" alt="image" src="https://github.com/user-attachments/assets/e84f2acf-96ce-4cc5-ad13-a7978ac30079" /># 🚀 [Tips Hindawi](https://www.tipshindawi.com/) Challenge (June–July) 2026
 
 > 🏆 This repository is my official submission for the [**Tips Hindawi**](https://www.tipshindawi.com/) **Challenge (June–July) 2026**.
 
@@ -97,7 +97,7 @@ streamlit run app.py
 
 # 📸 Demo
 
-
+<video src="demo.mp4" controls width="100%" title="EDA STA Report Analyzer Demo"></video>
 
 ---
 
